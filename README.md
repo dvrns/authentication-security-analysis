@@ -17,7 +17,7 @@ This project analyzes authentication logs to detect suspicious login activity an
 - Scikit-learn
 
 ## Dataset
-Sample dataset: `security_auth_logs.csv`
+Sample dataset: `auth_events.csv`
 
 ## How it works
 - Reads authentication logs from a CSV file
